@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:27/09/2025
+# Date:29/09/2025
 ## Register Number:25015734
-## Name:Sasirekha B.
+## Name:B.SASIREKHA
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -59,7 +59,11 @@ Market intelligence for crop price tracking.
 
 Voice-enabled support for low-literate farmers.
 
-Feedback loop for continuous improvement.  
+Feedback loop for continuous improvement.
+![alt text](<Screenshot 2025-09-29 224902.png>)
+
+
+
 </li>
 <li>How it addresses the problem</li>
 <li>Innovation and uniqueness of the solution</li></ul>
@@ -114,4 +118,5 @@ Policy-making: Enables data-driven agricultural governance.
 
 ## Research and References
 
-<ul><li>Details https://www.india.gov.in/topics/agriculture </li></ul>
+<ul><li>https://farmsmarter.app/
+https://nurture.farm/farm/ </li></ul>
